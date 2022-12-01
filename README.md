@@ -26,7 +26,7 @@
 
 :ballot_box_with_check: **OSINT a GitHub** --> [**Cuentas Públicas y Privadas:** *Usuario, Nombre, Descripción, Email, URL Foto Perfil, URL Perfil*]
 
-:ballot_box: **OSINT a TikTok** --> [**Cuentas Privadas**]
+:black_square_button: **OSINT a TikTok** --> [**Cuentas Privadas**]
 
 ## 🛠 Instalar Herramienta 🛠
 
