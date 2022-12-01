@@ -50,7 +50,9 @@
 
 **[1]** Cuando ingresemos el nombre de usuario de la red social no es necesario ingresar el @.
 
-**[2]** Personalmente recomiendo usar la Herramienta con la Terminal en Pantalla Completa (Gráficamente más bonito).
+**[2]** Próximamente se agregarán nuevas Redes Sociales.
+
+**[3]** Personalmente recomiendo usar la Herramienta con la Terminal en Pantalla Completa (Gráficamente más bonito).
 
 ## 🔎 Versiones 🔎
 
