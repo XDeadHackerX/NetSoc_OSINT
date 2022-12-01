@@ -96,7 +96,7 @@ read -p "[*] Elige una opcion: " opc1
 				echo
 				wget --wait=40 --limit-rate=40K -U Mozilla -bq https://nitter.net/$username -O requisitos/resultados/Twitter-$username.txt >/dev/null
 				sleep 6
-				echo "[*] Usuario: " `cat requisitos/resultados/Twitter-$username.txt | awk -F= '/og:title/ {print $3}' | cut -c 2- | rev | cut -c5- | rev`
+				echo "[*] Usuario + Nombre: " `cat requisitos/resultados/Twitter-$username.txt | awk -F= '/og:title/ {print $3}' | cut -c 2- | rev | cut -c5- | rev`
 				echo "[*] Descripcion: " `cat requisitos/resultados/Twitter-$username.txt | awk -F= '/og:description/ {print $3}' | cut -c 2- | rev | cut -c5- | rev`
 				echo "[*] Se unio en: " `cat requisitos/resultados/Twitter-$username.txt | awk -F= '/profile-joindate/ {print $3}' | cut -c 2- | rev | cut -c13- | rev`
 				echo "[*] Tweets: " `cat requisitos/resultados/Twitter-$username.txt | awk -F= '/profile-stat-num/ {print $2}' | cut -c 20- | rev | cut -c8- | rev | awk 'NR==1{print}'`
@@ -116,7 +116,8 @@ read -p "[*] Elige una opcion: " opc1
 				echo "#################################"
 				echo
 				curl -s cli.fyi/https://www.twitch.tv/$username > requisitos/resultados/Twitch-$username.txt
-				echo "[*] Usuario: " `cat requisitos/resultados/Twitch-$username.txt | awk '/title/ {print}' | cut -c 19- | rev | cut -c3- | rev`
+				echo "[*] Usuario: @$username"
+				echo "[*] Nombre: " `cat requisitos/resultados/Twitch-$username.txt | awk '/title/ {print}' | cut -c 19- | rev | cut -c3- | rev`
 				echo "[*] Descripcion: " `cat requisitos/resultados/Twitch-$username.txt | awk '/description/ {print}' | cut -c 25- | rev | cut -c3- | rev`
 				echo
                 echo "[*] Foto de Perfil: " `cat requisitos/resultados/Twitch-$username.txt | awk '/url/&&/static-cdn/ {print $2}' | cut -c 2- | rev | cut -c3- | rev`
@@ -131,7 +132,8 @@ read -p "[*] Elige una opcion: " opc1
 				echo "#################################"
 				echo
 				curl -s cli.fyi/https://t.me/$username > requisitos/resultados/Tg-$username.txt
-				echo "[*] Usuario: " `cat requisitos/resultados/Tg-$username.txt | awk '/title/ {print}' | cut -c 19- | rev | cut -c3- | rev`
+				echo "[*] Usuario: @$username"
+				echo "[*] Nombre: " `cat requisitos/resultados/Tg-$username.txt | awk '/title/ {print}' | cut -c 19- | rev | cut -c3- | rev`
 				echo "[*] Descripcion: " `cat requisitos/resultados/Tg-$username.txt | awk '/description/ {print}' | cut -c 25- | rev | cut -c3- | rev`
 				echo
                 echo "[*] Foto de Perfil: " `cat requisitos/resultados/Tg-$username.txt | awk '/url/&&/cdn4/ {print $2}' | cut -c 2- | rev | cut -c3- | rev`
@@ -146,7 +148,8 @@ read -p "[*] Elige una opcion: " opc1
 				echo "#################################"
 				echo
 				curl -s cli.fyi/https://github.com/$username > requisitos/resultados/Git-$username.txt
-				echo "[*] Usuario: " `cat requisitos/resultados/Git-$username.txt | awk '/title/ {print $2}' | cut -c 2-`
+				echo "[*] Usuario: @$username"
+				echo "[*] Nombre: " `cat requisitos/resultados/Git-$username.txt | awk '/title/ {print $2}' | cut -c 2-`
 				echo "[*] Descripcion: " `cat requisitos/resultados/Git-$username.txt | awk '/description/ {print}' | cut -c 25- | rev | cut -c3- | rev`
 				echo
                 echo "[*] Foto de Perfil: " `cat requisitos/resultados/Git-$username.txt | awk '/url/&&/avatars/ {print $2}' | cut -c 2- | rev | cut -c3- | rev`
