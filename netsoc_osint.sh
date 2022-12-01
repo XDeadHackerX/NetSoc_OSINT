@@ -49,7 +49,7 @@ echo
 read -p "[*] Elige una opcion: " opc1
 	case $opc1 in
 			1 )	echo
-                read -p "[*] Escribe el nombre de usuario del Objetivo (Ej: anonymous23): " username
+				read -p "[*] Escribe el nombre de usuario del Objetivo (Ej: anonymous23): " username
 				echo
 				echo "#################################"
 				echo "[☢] UserName: @$username"
@@ -65,12 +65,12 @@ read -p "[*] Elige una opcion: " opc1
 				echo "[*] Siguiendo: " `cat requisitos/resultados/Ig-$username.txt | awk -F= '/"num"/ {print $3}' | cut -c 2- | rev | cut -c3- | rev | awk 'NR==3{print}'`
 				echo "[*] Estado de la cuenta(Vacio = Publica): " `cat requisitos/resultados/Ig-$username.txt | awk -F= '/This account/ {print}' | cut -c 18- | rev | cut -c7- | rev`
 				echo
-                echo "[*] Foto de Perfil: " `cat requisitos/resultados/Ig-$username.txt | awk '/href/&&/scontent/ {print $2}' | cut -c 7- | rev | cut -c10- | rev`
+				echo "[*] Foto de Perfil: " `cat requisitos/resultados/Ig-$username.txt | awk '/href/&&/scontent/ {print $2}' | cut -c 7- | rev | cut -c10- | rev`
 				echo
-                echo "[*] URL Perfil: https://www.instagram.com/$username"
+				echo "[*] URL Perfil: https://www.instagram.com/$username"
 				;;
 			2 )	echo
-                read -p "[*] Escribe el nombre de usuario del Objetivo (Ej: anonymous23): " username
+				read -p "[*] Escribe el nombre de usuario del Objetivo (Ej: anonymous23): " username
 				echo
 				echo "#################################"
 				echo "[☢] UserName: $username"
@@ -83,12 +83,12 @@ read -p "[*] Elige una opcion: " opc1
 				echo "[*] Seguidores: " `cat requisitos/resultados/TikTok-$username.txt | awk '/seguidores/ {print $5}'`
 				echo "[*] Siguiendo: " `cat requisitos/resultados/TikTok-$username.txt | awk '/siguiendo/ {print $6}'`
 				echo
-                echo "[*] Foto de Perfil: " `cat requisitos/resultados/TikTok-$username.txt | awk '/"image"/ {print}' | cut -c 14- | rev | cut -c3- | rev`
+				echo "[*] Foto de Perfil: " `cat requisitos/resultados/TikTok-$username.txt | awk '/"image"/ {print}' | cut -c 14- | rev | cut -c3- | rev`
 				echo
-                echo "[*] URL Perfil: https://www.tiktok.com/@$username"
+				echo "[*] URL Perfil: https://www.tiktok.com/@$username"
 				;;
 			3 )	echo
-                read -p "[*] Escribe el nombre de usuario del Objetivo (Ej: anonymous23): " username
+				read -p "[*] Escribe el nombre de usuario del Objetivo (Ej: anonymous23): " username
 				echo
 				echo "#################################"
 				echo "[☢] UserName: $username"
@@ -104,12 +104,12 @@ read -p "[*] Elige una opcion: " opc1
 				echo "[*] Followers: " `cat requisitos/resultados/Twitter-$username.txt | awk -F= '/profile-stat-num/ {print $2}' | cut -c 20- | rev | cut -c8- | rev | awk 'NR==3{print}'`
 				echo "[*] Likes: " `cat requisitos/resultados/Twitter-$username.txt | awk -F= '/profile-stat-num/ {print $2}' | cut -c 20- | rev | cut -c8- | rev | awk 'NR==4{print}'`
 				echo
-                echo "[*] Foto de Perfil: " `cat requisitos/resultados/Twitter-$username.txt | awk -F= '/twitter:image:src/ {print $3}' | cut -c 2- | rev | cut -c5- | rev`
+				echo "[*] Foto de Perfil: " `cat requisitos/resultados/Twitter-$username.txt | awk -F= '/twitter:image:src/ {print $3}' | cut -c 2- | rev | cut -c5- | rev`
 				echo
-                echo "[*] URL Perfil: https://nitter.net/$username"
+				echo "[*] URL Perfil: https://nitter.net/$username"
 				;;
 			4 )	echo
-                read -p "[*] Escribe el nombre de usuario del Objetivo (Ej: anonymous23): " username
+				read -p "[*] Escribe el nombre de usuario del Objetivo (Ej: anonymous23): " username
 				echo
 				echo "#################################"
 				echo "[☢] UserName: $username"
@@ -120,12 +120,12 @@ read -p "[*] Elige una opcion: " opc1
 				echo "[*] Nombre: " `cat requisitos/resultados/Twitch-$username.txt | awk '/title/ {print}' | cut -c 19- | rev | cut -c3- | rev`
 				echo "[*] Descripcion: " `cat requisitos/resultados/Twitch-$username.txt | awk '/description/ {print}' | cut -c 25- | rev | cut -c3- | rev`
 				echo
-                echo "[*] Foto de Perfil: " `cat requisitos/resultados/Twitch-$username.txt | awk '/url/&&/static-cdn/ {print $2}' | cut -c 2- | rev | cut -c3- | rev`
+				echo "[*] Foto de Perfil: " `cat requisitos/resultados/Twitch-$username.txt | awk '/url/&&/static-cdn/ {print $2}' | cut -c 2- | rev | cut -c3- | rev`
 				echo
-                echo "[*] URL Perfil: https://www.twitch.tv/$username"
+				echo "[*] URL Perfil: https://www.twitch.tv/$username"
 				;;
 			5 )	echo
-                read -p "[*] Escribe el nombre de usuario del Objetivo (Ej: anonymous23): " username
+			read -p "[*] Escribe el nombre de usuario del Objetivo (Ej: anonymous23): " username
 				echo
 				echo "#################################"
 				echo "[☢] UserName: $username"
@@ -136,12 +136,12 @@ read -p "[*] Elige una opcion: " opc1
 				echo "[*] Nombre: " `cat requisitos/resultados/Tg-$username.txt | awk '/title/ {print}' | cut -c 19- | rev | cut -c3- | rev`
 				echo "[*] Descripcion: " `cat requisitos/resultados/Tg-$username.txt | awk '/description/ {print}' | cut -c 25- | rev | cut -c3- | rev`
 				echo
-                echo "[*] Foto de Perfil: " `cat requisitos/resultados/Tg-$username.txt | awk '/url/&&/cdn4/ {print $2}' | cut -c 2- | rev | cut -c3- | rev`
+				echo "[*] Foto de Perfil: " `cat requisitos/resultados/Tg-$username.txt | awk '/url/&&/cdn4/ {print $2}' | cut -c 2- | rev | cut -c3- | rev`
 				echo
-                echo "[*] URL Perfil: https://t.me/$username"
+				echo "[*] URL Perfil: https://t.me/$username"
 				;;
 			6 )	echo
-                read -p "[*] Escribe el nombre de usuario del Objetivo (Ej: anonymous23): " username
+				read -p "[*] Escribe el nombre de usuario del Objetivo (Ej: anonymous23): " username
 				echo
 				echo "#################################"
 				echo "[☢] UserName: $username"
@@ -152,9 +152,9 @@ read -p "[*] Elige una opcion: " opc1
 				echo "[*] Nombre: " `cat requisitos/resultados/Git-$username.txt | awk '/title/ {print $2}' | cut -c 2-`
 				echo "[*] Descripcion: " `cat requisitos/resultados/Git-$username.txt | awk '/description/ {print}' | cut -c 25- | rev | cut -c3- | rev`
 				echo
-                echo "[*] Foto de Perfil: " `cat requisitos/resultados/Git-$username.txt | awk '/url/&&/avatars/ {print $2}' | cut -c 2- | rev | cut -c3- | rev`
+				echo "[*] Foto de Perfil: " `cat requisitos/resultados/Git-$username.txt | awk '/url/&&/avatars/ {print $2}' | cut -c 2- | rev | cut -c3- | rev`
 				echo
-                echo "[*] URL Perfil: https://github.com/$username"
+				echo "[*] URL Perfil: https://github.com/$username"
 				echo
 				sleep 2
 				sudo python3 requisitos/osgint/osgint.py -u $username
