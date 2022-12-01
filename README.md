@@ -10,8 +10,8 @@
 
 *Esta es la base de* **NetSoc_OSINT** *no tener que registrarse en ninguna Red Social para extraer por terminal esta información y siempre se respetara esta condición debido a que es lo que hace* **única** *esta herramienta en GitHub.*
 
-<p align="center"> <img width="400" height="300" src="https://gifyu.com/image/ShYvP"> </p>
-<p align="center>"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/XDeadHackerX/NetSoc_OSINT?color=green&label=Visualizaciones&style=for-the-badge"> </p>
+<img align="center" src=https://s4.gifyu.com/images/naval-naval-warning.gif width="40%"/>
+<img align="center" alt="GitHub watchers" src="https://img.shields.io/github/watchers/XDeadHackerX/NetSoc_OSINT?color=green&label=Visualizaciones&style=for-the-badge">
 
 ---
 
