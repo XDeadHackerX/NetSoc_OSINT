@@ -1,6 +1,11 @@
 #!/bin/bash
 sudo apt-get install curl -y
 sudo apt-get install wget -y
+if ! [ -d requisitos ]
+	then
+		mkdir requisitos
+fi
+
 if ! [ -d requisitos/resultados ]
 	then
 		mkdir requisitos/resultados
