@@ -6,9 +6,9 @@
 
 ---
 
-*Buenas, soy* **XDeadHackerX** *y quiero presentaros mi nueva herramienta llamada* **NetSoc_OSINT**. *Esta Tool está enfocado al* **OSINT** *de Redes Sociales, con el objetivo de brindar la máxima información posible de un NickName en una Red Social* **SIN** *tener que ingresar en la Herramienta* **NINGUNA** *cuenta de Red Social,* **NI** *API y sobre todo* **SIN** *límite de búsquedas (rate limiting).*
+*Buenas, soy* **XDeadHackerX** *y quiero presentaros mi nueva herramienta llamada* **NetSoc_OSINT**. *Esta Tool está enfocada al* **OSINT** *de Redes Sociales, con el objetivo de brindar la máxima información posible de un Usuario* **SIN** *tener que ingresar en la Herramienta* **NINGUNA** *cuenta de Red Social,* **NI** *API y sobre todo* **SIN** *límite de búsquedas (rate limiting).*
 
-*Esta es la base de* **NetSoc_OSINT** *no tener que registrarse en ninguna Red Social para extraer por terminal esta información y siempre se respetara esta condición debido a que es lo que hace* **única** *esta herramienta en GitHub*
+*Esta es la base de* **NetSoc_OSINT** *no tener que registrarse en ninguna Red Social para extraer por terminal esta información y siempre se respetara esta condición debido a que es lo que hace* **única** *esta herramienta en GitHub.*
 
 ---
 
