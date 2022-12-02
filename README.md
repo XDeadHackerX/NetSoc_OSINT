@@ -1,5 +1,7 @@
 # 🕵️ NetSoc_OSINT 🕵️
 
+[Español](https://github.com/XDeadHackerX/NetSoc_OSINT/blob/main/README.md) | [English](https://github.com/XDeadHackerX/NetSoc_OSINT/blob/main/README-English.md)
+
 > Herramienta creada por XDeadHackerX
 
 [![Net-Soc-OSINT-1-0.png](https://i.postimg.cc/Hx6CkgLX/Net-Soc-OSINT-1-0.png)](https://postimg.cc/0MK4VhDy)
