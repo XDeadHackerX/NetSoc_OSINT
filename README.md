@@ -4,7 +4,7 @@
 
 > Herramienta creada por XDeadHackerX
 
-[![Net-Soc-OSINT-1-0.png](https://i.postimg.cc/Hx6CkgLX/Net-Soc-OSINT-1-0.png)](https://postimg.cc/0MK4VhDy)
+[![Net-Soc-OSINT-1-1.png](https://i.postimg.cc/KcDyXYQ4/Net-Soc-OSINT-1-1.png)](https://postimg.cc/dD3frwbK)
 
 ---
 
