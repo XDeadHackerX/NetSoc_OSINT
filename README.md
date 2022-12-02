@@ -53,9 +53,11 @@
 
 **[1]** Cuando ingresemos el nombre de usuario de la red social no es necesario ingresar el @.
 
-**[2]** Próximamente se agregarán nuevas Redes Sociales.
+**[2]** En el apartado de Instagram, si el campo Descripción tiene varias filas (líneas) solo aparecerá la primera.
 
-**[3]** Personalmente recomiendo usar la Herramienta con la Terminal en Pantalla Completa (Gráficamente más bonito).
+**[3]** Próximamente se agregarán nuevas Redes Sociales.
+
+**[4]** Personalmente recomiendo usar la Herramienta con la Terminal en Pantalla Completa (Gráficamente más bonito).
 
 ## 🔎 Versiones 🔎
 

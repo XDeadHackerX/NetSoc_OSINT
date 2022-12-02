@@ -55,8 +55,8 @@ read -p "[*] Elige una opcion: " opc1
 				echo "[☢] UserName: @$username"
 				echo "#################################"
 				echo
-				wget --wait=40 --limit-rate=40K -U Mozilla -bq https://www.pixwox.com/profile/$username/ -O requisitos/resultados/Ig-$username.txt >/dev/null
-				sleep 6
+				#wget --wait=40 --limit-rate=40K -U Mozilla -bq https://www.pixwox.com/profile/$username/ -O requisitos/resultados/Ig-$username.txt >/dev/null
+				#sleep 6
 				echo "[*] Usuario: @$username"
 				echo "[*] Nombre: " `cat requisitos/resultados/Ig-$username.txt | awk -F= '/"fullname">/ {print $2}' | cut -c 12- | rev | cut -c6- | rev`
 				echo "[*] Descripcion: " `cat requisitos/resultados/Ig-$username.txt | awk '/div class="sum"/ {print}' | cut -c 18- | rev | cut -c7- | rev | awk 'NR==1{print}'`
@@ -164,4 +164,20 @@ read -p "[*] Elige una opcion: " opc1
 			* )	echo
 				echo "$RRPLY No es una opcion valida"
 				bash netsoc_osint.sh
+	esac
+echo
+echo
+echo "#####################"
+echo "[1] Volver a Ejecutar"
+echo "[2] Salir"
+echo "#####################"
+echo
+read -p "Elige una opcion: " opc2
+	case $opc2 in
+			1 )	bash netsoc_osint.sh
+				;;
+			2 )	exit
+				;;
+			* )	echo
+				echo "$RRPLY No es una opcion valida"
 	esac
