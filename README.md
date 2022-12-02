@@ -49,7 +49,9 @@
 
 **6)** bash netsoc_osint.sh
 
-**7)** Ya podemos disfrutar de la herramienta
+**7)** Elige un idioma
+
+**8)** Ya podemos disfrutar de la herramienta
 
 ## 🎲 Tener en Cuenta 🎲
 
@@ -64,6 +66,8 @@
 ## 🔎 Versiones 🔎
 
 **(v1.0)** ---> Versión Original.
+
+**(v1.1)** ---> Posibilidad de escoger entre Español e Inglés.
 
 ## ⭐☕ Creado por XDeadHackerX ☕⭐
 

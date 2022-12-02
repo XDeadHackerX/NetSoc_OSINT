@@ -8,7 +8,7 @@
 
 ---
 
-*Good morning, I'm* **XDeadHackerX** *and I want to introduce you my new tool called* **NetSoc_OSINT**. *This Tool is focused on the* **OSINT** *of Social Networks, with the objective of providing the maximum possible information of a User* **WITHOUT** *having to enter in the Tool* **NONE** *Social Network account,* **NOT** *API and above all* **WITHOUT** *rate limiting.
+*Good morning, I'm* **XDeadHackerX** *and I want to introduce you my new tool called* **NetSoc_OSINT**. *This Tool is focused on the* **OSINT** *of Social Networks, with the objective of providing the maximum possible information of a User* **WITHOUT** *having to enter in the Tool* **NONE** *Social Network account,* **NOT** *API and above all* **WITHOUT** *rate limiting.*
 
 *This is the basis of* **NetSoc_OSINT** *not having to register to any Social Network to terminally extract this information and this condition will always be respected because it is what makes* **unique** *this tool on GitHub.*
 
@@ -49,7 +49,9 @@
 
 **6)** bash netsoc_osint.sh
 
-**7)** We can now enjoy the tool
+**7)** Choose a language
+
+**8)** We can now enjoy the tool
 
 ## 🎲 Keep in mind 🎲
 
@@ -64,6 +66,8 @@
 ## 🔎 Versions 🔎
 
 **(v1.0)** ---> Original Version.
+
+**(v1.1)** ---> Possibility to choose between Spanish and English.
 
 ## ⭐☕ Created by XDeadHackerX ☕⭐
 
