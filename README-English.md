@@ -12,7 +12,7 @@
 
 *This is the basis of* **NetSoc_OSINT** *not having to register to any Social Network to terminally extract this information and this condition will always be respected because it is what makes* **unique** *this tool on GitHub.*
 
-<p align="center"> <img width="80px" alt="GitHub watchers" src="https://visitor-badge.glitch.me/badge?page_id=NetSoc_OSINT&left_color=gray&right_color=green" alt="Visualizaciones badge"/></p>
+<p align="center"> <img width="83px" alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?style=flat"/> <img width="85px" alt="GitHub watchers" src="https://visitor-badge.glitch.me/badge?page_id=NetSoc_OSINT&left_color=gray&right_color=blue"/></p>
 <p align="center"><img src=https://i.postimg.cc/0yrH4qG6/pc1.webp width="350px"/></p>
 
 ---
