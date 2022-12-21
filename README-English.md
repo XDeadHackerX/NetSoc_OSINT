@@ -4,7 +4,7 @@
 
 > Tool created by XDeadHackerX
 
-<p align="center"> <img width="83px" alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?style=flat"/> <img width="85px" alt="GitHub watchers" src="https://visitor-badge.glitch.me/badge?page_id=NetSoc_OSINT&left_color=gray&right_color=blue"/></p>
+<p align="center"> <img width="100px" alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?style=flat"/> <img width="100px" alt="GitHub watchers" src="https://visitor-badge.glitch.me/badge?page_id=NetSoc_OSINT&left_color=gray&right_color=blue"/></p>
 
 [![Net-Soc-OSINT-1-1-en.png](https://i.postimg.cc/0QpbmJm7/Net-Soc-OSINT-1-1-en.png)](https://postimg.cc/Kk8Ghj0Y)
 
