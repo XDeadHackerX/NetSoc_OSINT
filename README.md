@@ -70,6 +70,10 @@
 
 **(v1.1)** ---> Posibilidad de escoger entre Español e Inglés.
 
+## 🎬 Versiones 🎬
+
+[![asciicast](https://asciinema.org/a/549547.svg)](https://asciinema.org/a/549547)
+
 ## ⭐☕ Creado por XDeadHackerX ☕⭐
 
 **Si consideras que este proyecto ha sido útil, te agradecería que me apoyaras dándole una estrella a este repositorio o invitándome a un café.**
