@@ -70,7 +70,7 @@
 
 **(v1.1)** ---> Posibilidad de escoger entre Español e Inglés.
 
-## 🎬 Versiones 🎬
+## 🎬 Video 🎬
 
 [![asciicast](https://asciinema.org/a/549547.svg)](https://asciinema.org/a/549547)
 

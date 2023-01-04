@@ -70,6 +70,10 @@
 
 **(v1.1)** ---> Possibility to choose between Spanish and English.
 
+## 🎬 Video 🎬
+
+[![asciicast](https://asciinema.org/a/549547.svg)](https://asciinema.org/a/549547)
+
 ## ⭐☕ Created by XDeadHackerX ☕⭐
 
 **If you think this project has been useful, I would appreciate your support by giving this repository a star or inviting me for a coffee.**

@@ -214,7 +214,7 @@ read -p "Elige una Opcion / Choose an Option: " opc1
 				echo "                                     [4]           Twitch 🕵️""        |"
 				echo "                                     [5]          Telegram 🕵️""       |"
 				echo "                                     [6]           GitHub 🕵️""        |"
-				echo "                                     [99]   ------> Exit ""<------  |"
+				echo "                                     [99]   ------> Exit ""<------   |"
 				echo "                                     ==============================="
 				echo
 				echo
