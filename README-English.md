@@ -72,7 +72,7 @@
 
 ## 🎬 Video 🎬
 
-[![asciicast](https://asciinema.org/a/549547.svg)](https://asciinema.org/a/549547)
+<p align="center"><a href="https://asciinema.org/a/549547" target="_blank"><img src="https://asciinema.org/a/549547.svg" width="700px" /></a><p>
 
 ## ⭐☕ Created by XDeadHackerX ☕⭐
 
