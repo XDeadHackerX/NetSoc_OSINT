@@ -72,7 +72,7 @@
 
 ## 🎬 Video 🎬
 
-<a href="https://asciinema.org/a/549547" target="_blank"><img src="https://asciinema.org/a/549547.svg" width="500px" /></a>
+<p align="center"><a href="https://asciinema.org/a/549547" target="_blank"><img src="https://asciinema.org/a/549547.svg" width="800px" /></a><p>
 
 ## ⭐☕ Creado por XDeadHackerX ☕⭐
 
