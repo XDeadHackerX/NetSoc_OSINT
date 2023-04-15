@@ -58,11 +58,13 @@
 
 **[1]** Cuando ingresemos el nombre de usuario de la red social no es necesario ingresar el @.
 
-**[2]** En el apartado de Instagram, si el campo Descripción tiene varias filas (líneas) solo aparecerá la primera.
+**[2]** Si usamos la Herramienta con una VPN o Proxys activados puede que algunas opciones no funcionen (CAPTCHA).
 
-**[3]** Próximamente se agregarán nuevas Redes Sociales.
+**[3]** En el apartado de Instagram, si el campo Descripción tiene varias filas (líneas) solo aparecerá la primera.
 
-**[4]** Personalmente recomiendo usar la Herramienta con la Terminal en Pantalla Completa (Gráficamente más bonito).
+**[4]** Próximamente se agregarán nuevas Redes Sociales.
+
+**[5]** Personalmente recomiendo usar la Herramienta con la Terminal en Pantalla Completa (Gráficamente más bonito).
 
 ## 🔎 Versiones 🔎
 
@@ -80,4 +82,4 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/XDeadHackerX)
 
-Copyright © 2022, XDeadHackerX
+Copyright © 2023, XDeadHackerX

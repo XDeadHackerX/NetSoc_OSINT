@@ -58,11 +58,13 @@
 
 **[1]** When entering the username of the social network it is not necessary to enter the @.
 
-**[2]** In the Instagram section, if the Description field has several rows (lines) only the first one will appear.
+**[2]** If you use the Tool with a VPN or Proxies enabled, some options may not work (CAPTCHA).
 
-**[3]** New Social Networks will be added soon.
+**[3]** In the Instagram section, if the Description field has several rows (lines) only the first one will appear.
 
-**[4]** I personally recommend using the Tool with the Terminal in Full Screen (Graphically nicer).
+**[4]** New Social Networks will be added soon.
+
+**[5]** I personally recommend using the Tool with the Terminal in Full Screen (Graphically nicer).
 
 ## 🔎 Versions 🔎
 
