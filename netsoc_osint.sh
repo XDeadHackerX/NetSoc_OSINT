@@ -64,7 +64,7 @@ read -p "Elige una Opcion / Choose an Option: " opc1
 								echo "[☢] UserName: @$username"
 								echo "#################################"
 								echo
-								wget --wait=40 --limit-rate=40K -U Mozilla -bq https://www.pixwox.com/profile/$username/ -O requisitos/resultados/Ig-$username.txt >/dev/null
+								wget --wait=40 --limit-rate=40K -U Mozilla -bq https://www.picnob.com/profile/$username/ -O requisitos/resultados/Ig-$username.txt >/dev/null
 								sleep 6
 								echo "[*] Usuario: @$username"
 								echo "[*] Nombre: " `cat requisitos/resultados/Ig-$username.txt | awk -F= '/"fullname">/ {print $2}' | cut -c 12- | rev | cut -c6- | rev`
@@ -227,7 +227,7 @@ read -p "Elige una Opcion / Choose an Option: " opc1
 								echo "[☢] UserName: @$username"
 								echo "#################################"
 								echo
-								wget --wait=40 --limit-rate=40K -U Mozilla -bq https://www.pixwox.com/profile/$username/ -O requisitos/resultados/Ig-$username.txt >/dev/null
+								wget --wait=40 --limit-rate=40K -U Mozilla -bq https://www.picnob.com/profile/$username/ -O requisitos/resultados/Ig-$username.txt >/dev/null
 								sleep 6
 								echo "[*] User: @$username"
 								echo "[*] Name: " `cat requisitos/resultados/Ig-$username.txt | awk -F= '/"fullname">/ {print $2}' | cut -c 12- | rev | cut -c6- | rev`
