@@ -66,6 +66,8 @@
 
 **[5]** I personally recommend using the Tool with the Terminal in Full Screen (Graphically nicer).
 
+**[6]** In case you have downloaded an older version, I advise you to delete it and reinstall the tool (+requirements) to fix bugs and get improvements, which make the tool much better than previous versions.
+
 ## 🔎 Versions 🔎
 
 **(v1.0)** ---> Original Version.
@@ -82,4 +84,4 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/XDeadHackerX)
 
-Copyright © 2022, XDeadHackerX
+Copyright © 2023, XDeadHackerX

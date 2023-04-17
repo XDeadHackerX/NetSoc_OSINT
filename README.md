@@ -66,6 +66,8 @@
 
 **[5]** Personalmente recomiendo usar la Herramienta con la Terminal en Pantalla Completa (Gráficamente más bonito).
 
+**[6]** En caso de que tengas descargada una versión más antigua, te aconsejo borrarla y volver a instalar la herramienta (+requisitos) para solucionar errores y obtener mejoras, que hacen que la herramienta sea mucho mejor que las versiones anteriores.
+
 ## 🔎 Versiones 🔎
 
 **(v1.0)** ---> Versión Original.
