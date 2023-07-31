@@ -4,7 +4,7 @@
 
 > Herramienta creada por XDeadHackerX
 
-<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.1-black.svg?style=for-the-badge"/></p>
+<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.1-purple.svg?style=for-the-badge"/></p>
 
 [![Net-Soc-OSINT-1-1-es.png](https://i.postimg.cc/rFXyLpBr/Net-Soc-OSINT-1-1-es.png)](https://postimg.cc/6TcxrB5W)
 
