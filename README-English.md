@@ -70,9 +70,14 @@
 
 ## 🔎 Versions 🔎
 
-**(v1.0)** ---> Original Version.
-
-**(v1.1)** ---> Possibility to choose between Spanish and English.
+<details>
+  <summary>[ v1.0 ]</summary>
+  <p>[#] Original Version.</p>
+</details>
+<details>
+  <summary>[ v1.1 ]</summary>
+  <p align="justify">[#] Possibility to choose between Spanish and English.</p>
+</details>
 
 ## 🎬 Video 🎬
 
