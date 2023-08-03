@@ -10,11 +10,13 @@
 
 ---
 
-*Good morning, I'm* **XDeadHackerX** *and I want to introduce you my new tool called* **NetSoc_OSINT**. *This Tool is focused on the* **OSINT** *of Social Networks, with the objective of providing the maximum possible information of a User* **WITHOUT** *having to enter in the Tool* **NONE** *Social Network account,* **NOT** *API and above all* **WITHOUT** *rate limiting.*
+<p align="justify"><i>Good morning, I'm <strong>XDeadHackerX</strong> and I want to introduce you my new tool called <strong>NetSoc_OSINT</strong>. This Tool is focused on the <strong>OSINT</strong> of Social Networks, with the objective of providing the maximum possible information of a User <strong>WITHOUT</strong> having to enter in the Tool <strong>NONE</strong> Social Network account, <strong>NOT</strong> API and above all <strong>WITHOUT</strong> rate limiting.</i></p>
 
-*This is the basis of* **NetSoc_OSINT** *not having to register to any Social Network to terminally extract this information and this condition will always be respected because it is what makes* **unique** *this tool on GitHub.*
+<p align="justify"><i>This is the basis of <strong>NetSoc_OSINT</strong> not having to register to any Social Network to terminally extract this information and this condition will always be respected because it is what makes <strong>unique</strong> this tool on GitHub.</i></p>
 
 <p align="center"><img src=https://i.postimg.cc/0yrH4qG6/pc1.webp width="350px"/></p>
+
+<p align="center"><a href="#punto1">Ejemplo Gráfico</a></p>
 
 ---
 
@@ -68,6 +70,10 @@
 
 **[6]** In case you have downloaded an older version, I advise you to delete it and reinstall the tool (+requirements) to fix bugs and get improvements, which make the tool much better than previous versions.
 
+## 🎬 Video 🎬 <a name="punto1"></a>
+
+<p align="center"><a href="https://asciinema.org/a/549547" target="_blank"><img src="https://asciinema.org/a/549547.svg" width="700px" /></a><p>
+
 ## 🔎 Versions 🔎
 
 <details>
@@ -78,10 +84,6 @@
   <summary>[ v1.1 ]</summary>
   <p align="justify">[#] Possibility to choose between Spanish and English.</p>
 </details>
-
-## 🎬 Video 🎬
-
-<p align="center"><a href="https://asciinema.org/a/549547" target="_blank"><img src="https://asciinema.org/a/549547.svg" width="700px" /></a><p>
 
 ## ⭐☕ Created by XDeadHackerX ☕⭐
 

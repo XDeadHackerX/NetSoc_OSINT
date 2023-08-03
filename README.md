@@ -10,11 +10,13 @@
 
 ---
 
-*Buenas, soy* **XDeadHackerX** *y quiero presentaros mi nueva herramienta llamada* **NetSoc_OSINT**. *Esta Tool está enfocada al* **OSINT** *de Redes Sociales, con el objetivo de brindar la máxima información posible de un Usuario* **SIN** *tener que ingresar en la Herramienta* **NINGUNA** *cuenta de Red Social,* **NI** *API y sobre todo* **SIN** *límite de búsquedas (rate limiting).*
+<p align="justify"><i>Buenas, soy <strong>XDeadHackerX</strong> y quiero presentaros mi nueva herramienta llamada <strong>NetSoc_OSINT</strong>. Esta Tool está enfocada al <strong>OSINT</strong> de Redes Sociales, con el objetivo de brindar la máxima información posible de un Usuario <strong>SIN</strong> tener que ingresar en la Herramienta <strong>NINGUNA</strong> cuenta de Red Social, <strong>NI</strong> API y sobre todo <strong>SIN</strong> límite de búsquedas (rate limiting).</i></p>
 
-*Esta es la base de* **NetSoc_OSINT** *no tener que registrarse en ninguna Red Social para extraer por terminal esta información y siempre se respetara esta condición debido a que es lo que hace* **única** *esta herramienta en GitHub.*
+<p align="justify"><i>Esta es la base de <strong>NetSoc_OSINT</strong> no tener que registrarse en ninguna Red Social para extraer por terminal esta información y siempre se respetara esta condición debido a que es lo que hace <strong>única</strong> esta herramienta en GitHub.</i></p>
 
 <p align="center"><img src=https://i.postimg.cc/0yrH4qG6/pc1.webp width="350px"/></p>
+
+<p align="center"><a href="#punto1">Ejemplo Gráfico</a></p>
 
 ---
 
@@ -68,6 +70,10 @@
 
 **[6]** En caso de que tengas descargada una versión más antigua, te aconsejo borrarla y volver a instalar la herramienta (+requisitos) para solucionar errores y obtener mejoras, que hacen que la herramienta sea mucho mejor que las versiones anteriores.
 
+## 🎬 Video 🎬 <a name="punto1"></a>
+
+<p align="center"><a href="https://asciinema.org/a/549547" target="_blank"><img src="https://asciinema.org/a/549547.svg" width="700px" /></a><p>
+
 ## 🔎 Versiones 🔎
 
 <details>
@@ -78,10 +84,6 @@
   <summary>[ v1.1 ]</summary>
   <p align="justify">[#] Posibilidad de escoger entre Español e Inglés.</p>
 </details>
-
-## 🎬 Video 🎬
-
-<p align="center"><a href="https://asciinema.org/a/549547" target="_blank"><img src="https://asciinema.org/a/549547.svg" width="700px" /></a><p>
 
 ## ⭐☕ Creado por XDeadHackerX ☕⭐
 
