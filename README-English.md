@@ -8,6 +8,8 @@
 
 [![Net-Soc-OSINT-1-1-en.png](https://i.postimg.cc/0QpbmJm7/Net-Soc-OSINT-1-1-en.png)](https://postimg.cc/Kk8Ghj0Y)
 
+<p>Video Demo: <a href="#punto1">Press here</a> or <a href="https://asciinema.org/a/549547">here</a></p> 
+
 ---
 
 <p align="justify"><i>Good morning, I'm <strong>XDeadHackerX</strong> and I want to introduce you my new tool called <strong>NetSoc_OSINT</strong>. This Tool is focused on the <strong>OSINT</strong> of Social Networks, with the objective of providing the maximum possible information of a User <strong>WITHOUT</strong> having to enter in the Tool <strong>NONE</strong> Social Network account, <strong>NOT</strong> API and above all <strong>WITHOUT</strong> rate limiting.</i></p>
@@ -15,8 +17,6 @@
 <p align="justify"><i>This is the basis of <strong>NetSoc_OSINT</strong> not having to register to any Social Network to terminally extract this information and this condition will always be respected because it is what makes <strong>unique</strong> this tool on GitHub.</i></p>
 
 <p align="center"><img src=https://i.postimg.cc/0yrH4qG6/pc1.webp width="350px"/></p>
-
-<p align="center"><a href="#punto1">Ejemplo Gráfico</a></p>
 
 ---
 

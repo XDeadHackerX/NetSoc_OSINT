@@ -8,6 +8,8 @@
 
 [![Net-Soc-OSINT-1-1-es.png](https://i.postimg.cc/rFXyLpBr/Net-Soc-OSINT-1-1-es.png)](https://postimg.cc/6TcxrB5W)
 
+<p>Vídeo Demo: <a href="#punto1">Pulse aquí</a> o <a href="https://asciinema.org/a/549547">aquí</a></p> 
+
 ---
 
 <p align="justify"><i>Buenas, soy <strong>XDeadHackerX</strong> y quiero presentaros mi nueva herramienta llamada <strong>NetSoc_OSINT</strong>. Esta Tool está enfocada al <strong>OSINT</strong> de Redes Sociales, con el objetivo de brindar la máxima información posible de un Usuario <strong>SIN</strong> tener que ingresar en la Herramienta <strong>NINGUNA</strong> cuenta de Red Social, <strong>NI</strong> API y sobre todo <strong>SIN</strong> límite de búsquedas (rate limiting).</i></p>
@@ -15,8 +17,6 @@
 <p align="justify"><i>Esta es la base de <strong>NetSoc_OSINT</strong> no tener que registrarse en ninguna Red Social para extraer por terminal esta información y siempre se respetara esta condición debido a que es lo que hace <strong>única</strong> esta herramienta en GitHub.</i></p>
 
 <p align="center"><img src=https://i.postimg.cc/0yrH4qG6/pc1.webp width="350px"/></p>
-
-<p align="center"><a href="#punto1">Ejemplo Gráfico</a></p>
 
 ---
 
